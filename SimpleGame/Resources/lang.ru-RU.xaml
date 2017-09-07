@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+    <v:String x:Key="t_CreateNewGame">Создать новую игру</v:String>
+    <v:String x:Key="t_Exit">Выход</v:String>
+    <v:String x:Key="t_Games">Игры:</v:String>
+    <v:String x:Key="t_Lang">Язык</v:String>
+    <v:String x:Key="t_Login">Войти</v:String>
+    <v:String x:Key="t_Back">Назад</v:String>
+    <v:String x:Key="t_RememberMe">Запомнить меня</v:String>
+    <v:String x:Key="t_Setting">Настройки</v:String>
+    <v:String x:Key="t_Update">Обновить</v:String>
+    <v:String x:Key="t_WaitOponent">Ожидание опонента...</v:String>
+    <v:String x:Key="t_DestroyGame">Закрыть игру</v:String>
+    <v:String x:Key="t_YouTurn">Выа ход</v:String>
+    <v:String x:Key="t_WaitTurn">Ход опонента</v:String>
+    <v:String x:Key="t_ServerAdress">Адрес сервера</v:String>
+</ResourceDictionary>

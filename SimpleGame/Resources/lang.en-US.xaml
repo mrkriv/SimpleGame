@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+    <v:String x:Key="t_CreateNewGame">Create new game</v:String>
+    <v:String x:Key="t_Exit">Exit</v:String>
+    <v:String x:Key="t_Games">Games:</v:String>
+    <v:String x:Key="t_Lang">Language</v:String>
+    <v:String x:Key="t_Login">Login</v:String>
+    <v:String x:Key="t_Back">Back</v:String>
+    <v:String x:Key="t_RememberMe">Remember me</v:String>
+    <v:String x:Key="t_Setting">Setting</v:String>
+    <v:String x:Key="t_Update">Update</v:String>
+    <v:String x:Key="t_WaitOponent">Wait oponent...</v:String>
+    <v:String x:Key="t_DestroyGame">Destroy game</v:String>
+    <v:String x:Key="t_YouTurn">You turn</v:String>
+    <v:String x:Key="t_WaitTurn">Wait</v:String>
+    <v:String x:Key="t_ServerAdress">Server adress</v:String>
+</ResourceDictionary>
